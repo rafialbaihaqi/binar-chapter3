@@ -1,0 +1,330 @@
+/* font-judul*/
+.font-judul {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 150%;
+    color: #000000;
+}
+
+.font-desc {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+/* bg section1 */
+.bg-section1 {
+    background: #F1F3FF;
+    padding-top: 1%;
+}
+
+.logo {
+    width: 100px;
+    height: 34px;
+    background: #0D28A6;
+}
+
+.nav-link {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+
+}
+
+#btn-register {
+    background: #5CB85F;
+    border-radius: 2px;
+    width: 81px;
+    height: 36px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+}
+
+/* akhir mavbar */
+
+
+/* hero content */
+.sewa-content {
+    margin-top: 2%;
+}
+
+.img-sewa {
+    width: 655px;
+    height: 407px;
+}
+
+.desc {
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+}
+
+
+.bg-sewa {
+    background: #F1F3FF;
+    height: 500px;
+}
+
+.sewa {
+    width: 568px;
+    height: 108px;
+    font-style: normal;
+    font-size: 36px;
+}
+
+.des-sewa {
+    width: 468px;
+    height: 60px;
+}
+
+#btn-sewa {
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 36px;
+    background: #5CB85F;
+    border-radius: 2px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.btn-sewa p {
+    position: static;
+    width: 116px;
+    height: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* alhir hero content */
+
+
+/* services content */
+.services {
+    padding-top: 104px;
+}
+
+.h1-services {
+    font-size: 24px;
+    line-height: 36px;
+    padding-bottom: 24px;
+
+}
+
+.p-services {
+    padding-bottom: 18px;
+    width: 468px;
+}
+
+.i-serv {
+    padding-right: 16px;
+}
+
+/* akhir services content*/
+
+/* why us content*/
+.whyus {
+    margin-bottom: 100px;
+}
+
+.h1-whyus {
+    font-size: 24px;
+    margin-top: 162px;
+    margin-bottom: 16px;
+}
+
+.p-whyus {
+    margin-bottom: 40px;
+}
+
+.h5-card {
+    padding-top: 16px;
+    font-size: 16px;
+}
+
+/* akhir why us content */
+
+/* Testimoni content */
+.testimonial {
+    margin-bottom: 100px;
+}
+
+.h_testi {
+    font-size: 24px;
+}
+
+.carousel {
+    margin-top: 2%;
+}
+
+.carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -70px;
+}
+
+.carousel-indicators .bi-chevron-left,
+.carousel-indicators .bi-chevron-right {
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-left: 10px;
+    border: 1px solid #C4C4C4;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: -35%;
+}
+
+.carousel-indicators .active {
+    text-align: center;
+
+}
+
+.carousel-indicators .active:hover {
+    background-color: #5CB85F;
+}
+
+.single-box {
+    padding: 50px 30px 40px;
+    border-radius: 8px;
+    background-color: #F1F3FF;
+    height: 240px;
+}
+
+.testimonial .img-area {
+    position: absolute;
+    margin: 0;
+    width: 30%;
+}
+
+.img-area img {
+    /* width: 70px;
+    height: 70px; */
+    margin-top: 30px;
+}
+
+.text-img .bi-star-fill {
+    color: #F9CC00;
+}
+
+.text-img .bi-star-half {
+    color: #F9CC00;
+}
+
+.text-img p {
+    margin-top: 5px;
+}
+
+.text-img h2 {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.testimonial .text-img {
+    float: left;
+    padding-left: 30%;
+}
+
+/* akhir testimonial content */
+
+/* cta content */
+/* banner cta */
+.cta {
+    background-color: #0D28A6;
+    border-radius: 13px;
+    width: 1168px;
+    height: 326px;
+    margin-bottom: 100px;
+}
+
+.h-cta {
+    color: #FFFFFF;
+    font-size: 36px;
+    padding-bottom: 16px;
+}
+
+.p-cta {
+    color: #FFFFFF;
+    padding-bottom: 52px;
+}
+
+/* akhir content cta */
+
+
+/* FAQ content */
+.faq {
+    padding-bottom: 150px;
+}
+
+.h-faq {
+    font-size: 24px;
+    padding-bottom: 16px;
+}
+
+/* untuk heading accordion */
+.font-accordion {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    /* line-height: 20px; */
+    color: #000000;
+}
+
+/* untuk desc accordion */
+#font-accordion {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    /* line-height: 20px; */
+    color: #000000;
+}
+
+/* Akhir FAQ content*/
+
+/* footer*/
+.font-our-services {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.c-footer {
+    margin-bottom: 100px;
+}
+
+.co-our {
+    margin-left: 7%;
+}
+
+
+.connect {
+    margin-left: -6%;
+}
+
+/* akhir footer */
